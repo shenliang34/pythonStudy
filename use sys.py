@@ -10,5 +10,5 @@ while i<=10:
 j="name"
 mylist=['li','fj']
 print j.startswith('nmm')
-print j.join(mylist)// 
+print j.join(mylist)
 print j.find('sys')
