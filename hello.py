@@ -82,3 +82,7 @@ print x
 def use_default(time=7):
 	print time
 use_default(10)
+xyz = pow(10,2)
+import math
+print int(math.ceil(0.8))
+print(xyz)
