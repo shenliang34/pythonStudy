@@ -68,6 +68,8 @@ else:
 def sayHello():
 	print "sayHello is use";
 sayHello();
+global xy
+# print "xu"+xy
 def func():
 	global x
 	print x;
