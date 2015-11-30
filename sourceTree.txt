@@ -1,2 +1,2 @@
-生成ssh命令   ssh-keygen -t rsa -C "971935832@qq.com"
-
+﻿生成ssh命令   ssh-keygen -t rsa -C "971935832@qq.com"
+12
