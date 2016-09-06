@@ -1,0 +1,3 @@
+python xmlDemo.py
+
+pause
